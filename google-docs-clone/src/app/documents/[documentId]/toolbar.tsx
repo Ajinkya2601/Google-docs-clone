@@ -1,5 +1,5 @@
 "use client"
-import { BoldIcon, ChevronDownIcon, ItalicIcon, ListTodoIcon, LucideIcon,HighlighterIcon, Link2Icon, MessageSquarePlusIcon, PrinterIcon, Redo2Icon,ChevronsDownIcon, RemoveFormattingIcon, SpellCheck2Icon, UnderlineIcon, Undo2Icon, View, SearchIcon, UploadIcon, ImageIcon, AlignCenterIcon, AlignJustifyIcon, AlignLeftIcon, AlignRightIcon, Icon, ListIcon, ListOrderedIcon, MinusIcon, PlusIcon, ListCollapseIcon } from 'lucide-react'
+import { BoldIcon, ChevronDownIcon, ItalicIcon, ListTodoIcon, LucideIcon,HighlighterIcon, Link2Icon, MessageSquarePlusIcon, PrinterIcon, Redo2Icon,ChevronsDownIcon, RemoveFormattingIcon, SpellCheck2Icon, UnderlineIcon, Undo2Icon, SearchIcon, UploadIcon, ImageIcon, AlignCenterIcon, AlignJustifyIcon, AlignLeftIcon, AlignRightIcon, ListIcon, ListOrderedIcon, MinusIcon, PlusIcon, ListCollapseIcon } from 'lucide-react'
 import React from 'react'
 import {cn} from '@/lib/utils'
 import useEditorStore from '@/store/use-editor-store'
